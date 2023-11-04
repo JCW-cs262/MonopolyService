@@ -1,3 +1,9 @@
+# CS 262 - Lab 9
+This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/09is/lab.html.
+
+# Purpose:
+Deploy an sql database to the web. Found at: https://JCWco.azurewebsites.net/
+
 # CS 262 Monopoly Webservice
 
 This is the data service application for the 
